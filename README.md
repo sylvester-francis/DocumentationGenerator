@@ -32,7 +32,7 @@ An intelligent workflow automation system that fetches code from GitHub, analyze
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sylvester-francis/DocumentationGenerator
+   git clone https://github.com/sylvester-francis/DocumentationGenerator.git
    cd DocumentationGenerator
    ```
 
@@ -105,6 +105,24 @@ python test_app.py
 ```bash
 python test_analyzer.py src/main.py
 ```
+
+### Mock Mode Screenshots
+
+#### Initial Screen
+![Initial Mock Screen](images/InitialScreen.png)
+*The mock interface where you can enter repository details for testing*
+
+#### Documentation Preview
+![Mock Documentation Preview](images/DocumentationView.png)
+*Preview of mock-generated documentation in the test environment*
+
+#### Mock Confluence Pages
+![Mock Confluence Pages](images/MockConfluencePages.png)
+*How documentation appears in the mock Confluence view*
+
+#### Command Line Testing
+![Command Line Testing](images/CommandLineView.png)
+*Running the mock tests via command line to simulate the workflow without real API calls*
 
 ## 📁 Project Structure
 
