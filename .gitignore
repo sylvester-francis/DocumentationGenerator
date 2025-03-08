@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and local development artifacts
+*.log
+debug.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
