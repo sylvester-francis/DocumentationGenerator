@@ -27,7 +27,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main header
-st.title("AI Documentation Generator")
+st.title("Documentation Generator (MOCK)")
 st.markdown("Automatically generate technical documentation from your code and update Confluence.")
 
 # Sidebar with mock info

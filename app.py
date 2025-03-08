@@ -80,7 +80,7 @@ with st.sidebar:
         st.info("To permanently save this configuration, update your .env file.")
 
 # Main content
-st.markdown('<h1 class="main-header">AI Documentation Generator</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">Documentation Generator</h1>', unsafe_allow_html=True)
 st.markdown("Automatically generate technical documentation from your code and update Confluence.")
 
 # Repository information
