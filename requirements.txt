@@ -20,7 +20,7 @@ frozenlist==1.5.0
 gitdb==4.0.12
 GitPython==3.1.44
 h11==0.16.0
-httpcore==1.0.7
+httpcore==1.0.9
 httpx==0.28.1
 httpx-sse==0.4.0
 idna==3.10
@@ -54,7 +54,7 @@ packaging==24.2
 pandas==2.2.3
 pillow==11.1.0
 propcache==0.3.0
-protobuf==5.29.3
+protobuf==6.31.1
 pyarrow==19.0.1
 pydantic==2.10.6
 pydantic-settings==2.8.1
